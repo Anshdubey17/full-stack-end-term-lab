@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     margin: 2rem;
-    background-color: #f4f4f4;
+    background-color: #c52525;
     color: #333;
 }
 h1 {
     text-align: center;
-    color: #24292e;
+    color: #4293df;
 }
 #user-form {
     max-width: 400px;
@@ -22,14 +22,14 @@ h1 {
 #fetch-btn {
     padding: 0.5rem 1rem;
     font-size: 1rem;
-    background-color: #2ea44f;
+    background-color: #d29335;
     color: white;
     border: none;
     cursor: pointer;
     border-radius: 4px;
 }
 #fetch-btn:hover {
-    background-color: #22863a;
+    background-color: #86227f;
 }
 #user-details {
     max-width: 600px;
@@ -54,7 +54,7 @@ h1 {
     margin: 0.25rem 0;
 }
 #error-message {
-    color: red;
+    color: rgb(200, 64, 64);
     text-align: center;
     margin-top: 1rem;
 }
